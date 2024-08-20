@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👨🏻‍💼 À propos de moi
 
-<!--
-**AlanAsalman/AlanAsalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Etudiant ingénieur en alternance
+- Développeur Backend
+- Administrateur Réseau
 
-Here are some ideas to get you started:
+## 🧑🏻‍💻 Langages de programmation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Language](https://skillicons.dev/icons?i=py,cs,js,php,java,html,css,swift&theme=dark)
+
+## 🛠️ Frameworks
+
+![Framework](https://skillicons.dev/icons?i=flask,dotnet&theme=dark)
+
+## 🏛️ Bases de données
+
+![Database](https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark)
+
+## 💻 IDE
+
+![IDE](https://skillicons.dev/icons?i=pycharm,rider,visualstudio,vscode,sublime&theme=dark)
+
+## 🖥️ Systèmes d'exploitation
+
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🛠️ Autres
+
+![Other](https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,regex,kubernetes,terraform&theme=dark)

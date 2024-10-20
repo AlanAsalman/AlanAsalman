@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 Langages de programmation
 
-![Language](https://skillicons.dev/icons?i=py,cs,js,php,java,html,css,swift&theme=dark)
+![Language](https://skillicons.dev/icons?i=py,cs,c,js,php,java,html,css,swift&theme=dark)
 
 ## 🛠️ Frameworks
 
